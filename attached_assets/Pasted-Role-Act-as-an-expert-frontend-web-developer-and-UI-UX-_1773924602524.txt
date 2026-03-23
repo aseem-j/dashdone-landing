@@ -1,0 +1,62 @@
+Role: Act as an expert frontend web developer and UI/UX designer.
+
+Task: Build a modern, responsive, high-converting landing page for a home services aggregator platform called "DashDone". The platform connects customers with local, fully-vetted removalists and cleaners in Australia.
+
+Tech Stack: HTML5, CSS3 (Use Tailwind CSS via CDN for styling), and Vanilla JavaScript for basic interactivity (like mobile menus).
+
+Brand Guidelines & Design System:
+
+Primary Color (Text, Headers, Dark accents): Deep Slate Grey (#3A4E6C)
+
+Secondary Color (Call-to-Action Buttons, Highlights): Golden Amber (#D48F1A)
+
+Background Color: Light Cream (#FAF9F6) or Pure White (#FFFFFF). Use Light Cream for alternating section backgrounds to create visual separation.
+
+Typography: Import 'Montserrat' (for all Headings, font-weight: 800) and 'Poppins' (for all paragraph/body text, font-weight: 400 and 500) from Google Fonts.
+
+Styling: Flat design, clean lines, no heavy drop shadows. Use slightly rounded corners (e.g., rounded-lg in Tailwind) for buttons and cards.
+
+Page Structure & Content Requirements:
+
+1. Navigation Bar (Sticky Top):
+
+Left: Placeholder text <div id="logo-placeholder">DashDone Logo</div> (I will replace this with an SVG later). Make the placeholder text Deep Slate (#3A4E6C) using the Montserrat font.
+
+Center Links: "Services", "How it Works", "Become a Partner".
+
+Right: A login/signup button styled with the Golden Amber (#D48F1A) background and white text.
+
+2. Hero Section:
+
+Background: Very faint, clean pattern or just Pure White.
+
+Headline (Deep Slate): "Book Trusted Removalists & Cleaners in Clicks."
+
+Subheadline (Deep Slate, slightly lighter opacity): "Moving out or tidying up? DashDone connects you with top-rated, fully vetted professionals across Australia so you can sit back and relax. Your home, in safe hands."
+
+Interactive Element: A prominent search bar centered below the text. It should have a dropdown for "Service Type" (Removalist, General Cleaning, End of Lease Clean), an input field for "Suburb or Postcode (e.g., Sydney, Epping)", and a large, Golden Amber "Search" button.
+
+3. "How DashDone Works" Section (Light Cream Background):
+
+Three centered columns/cards with simple vector icons.
+
+Step 1: "Tell us what you need" (Select your service and location).
+
+Step 2: "Compare & Book" (Choose from vetted local professionals).
+
+Step 3: "Consider it Done" (Relax while the experts handle the heavy lifting).
+
+4. Trust & Safety Section:
+
+A banner highlighting why customers should trust the platform: "Fully Vetted Professionals", "Secure Payments", "Satisfaction Guarantee". Use Deep Slate for the banner background and White text, with Golden Amber accents.
+
+5. Footer:
+
+Simple, clean footer. Include links: Terms of Service, Privacy Policy, Contact Us.
+
+Include a placeholder for an ABN (Australian Business Number).
+
+Copyright DashDone 2026.
+
+Execution Rules:
+Make sure the code is completely contained in an index.html file, fully mobile-responsive (use Tailwind's md: and lg: classes), and looks professional right out of the box. Do not use placeholder images that will break; use CSS styling or free FontAwesome/Heroicons for any needed icons.

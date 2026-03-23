@@ -1,0 +1,55 @@
+Role: Act as an expert frontend web developer and UI/UX designer.
+
+Task: Build a modern, responsive, high-converting landing page for a home services platform called "DashDone". The platform connects customers with carefully chosen removalists in Sydney, Australia.
+
+Tech Stack: HTML5, CSS3 (Use Tailwind CSS via CDN), and Vanilla JavaScript.
+
+Brand Guidelines:
+
+Primary Color (Text/Headers): Deep Slate Grey (#3A4E6C)
+
+Secondary Color (Buttons/Highlights): Golden Amber (#D48F1A)
+
+Background Color: Light Cream (#FAF9F6) or Pure White (#FFFFFF).
+
+Typography: Import 'Montserrat' (Headings, weight: 800) and 'Poppins' (Body, weight: 400/500).
+
+Page Structure & Exact Content:
+
+1. Nav Bar: Left: Logo placeholder text "DashDone". Center Links: "How it Works", "Become a Partner". Right: "Sign Up" button (Golden Amber).
+
+2. Hero Section (White Background):
+
+Headline: "Book Sydney's Top Removalists in Clicks."
+
+Subheadline: "DashDone connects you with top-rated, carefully chosen removalists across Sydney. Just sit back and relax while we handle the heavy lifting. Your move, in safe hands."
+
+Action: A large Golden Amber button that says "Get Your Free Quotes". (NO interactive search bar).
+
+3. How DashDone Works (Light Cream Background):
+
+Three columns with vector icons.
+
+Step 1: "Tell Us About Your Move" (Simply enter your target dates and location details to get started.)
+
+Step 2: "View Quotes in Minutes" (Instantly receive and compare competitive quotations from multiple local removalists.)
+
+Step 3: "Book Straight Away" (Lock in your preferred team instantly. Relax while we handle the rest.)
+
+4. Trust Banner & Booking Section (White Background):
+
+A Deep Slate banner with Golden Amber accents displaying three items: "Carefully Chosen Partners", "Secure Payments", "Satisfaction Guarantee".
+
+Below banner: "Every professional on DashDone is carefully chosen so you never have to worry."
+
+Add a section for the booking fee: "Simple, Transparent Booking. Take advantage of our low introductory booking fee to secure your Sydney move today."
+
+5. Partner Section (Light Cream Background):
+
+Headline: "Grow Your Moving Business"
+
+Text: "Join hundreds of removalists who are growing their client base through our platform."
+
+Button: "Apply to be a Partner"
+
+6. Footer: Links for Terms, Privacy, Contact. Include text: "ABN: 17 829 062 663". Copyright DashDone 2026.

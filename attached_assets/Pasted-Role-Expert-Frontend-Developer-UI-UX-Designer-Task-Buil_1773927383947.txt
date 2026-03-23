@@ -1,0 +1,38 @@
+Role: Expert Frontend Developer & UI/UX Designer.
+Task: Build a high-converting, single-page landing page for "DashDone" using HTML5, Tailwind CSS, and Google Fonts.
+Brand Identity:
+* Primary Color: Deep Slate Grey (#3A4E6C)
+* Secondary Color: Golden Amber (#D48F1A)
+* Fonts: Montserrat (Headings, 800 weight) and Poppins (Body text).
+* Styling: Professional, modern, and trustworthy. Use rounded-lg for buttons and containers.
+1. Navigation Bar (Sticky Top):
+* Left: Placeholder text "DashDone" in Montserrat Bold, Deep Slate color.
+* Center: Links for "How it Works" and "Become a Partner".
+* Right: A button group containing both a "Log In" button (Outline/Ghost style using Deep Slate border and text) and a "Sign Up" button (Solid Golden Amber background with White text). Ensure both are clearly visible side-by-side on desktop and mobile.
+2. Hero Section (White Background):
+* Headline: "Sydney’s Premier Network for Stress-Free Moving."
+* Subheadline: "DashDone connects you with top-rated, carefully chosen removalists across Greater Sydney. Your move, handled by experts."
+* CTA Button: A large, rounded Golden Amber button: "Get Your Free Quotes".
+* Subtle Note: Below the button, add a small text caption in Deep Slate: "Currently serving all Greater Sydney suburbs."
+3. How DashDone Works (Light Cream Background #FAF9F6):
+* Three centered columns with clean vector icons.
+* Step 1: "Tell Us About Your Move" (Enter your target dates and Sydney location details).
+* Step 2: "View Quotes in Minutes" (Compare competitive quotations from verified local removalists).
+* Step 3: "Book Straight Away" (Lock in your preferred team and relax).
+4. Trust & Safety Banner:
+* Deep Slate background with white text. Horizontal layout for desktop, vertical for mobile.
+* Display three items with icons: "Carefully Chosen Partners", "Secure Payments", "Satisfaction Guarantee".
+* Below the banner: "Every professional on DashDone is carefully chosen so you never have to worry."
+5. Introductory Booking Section (White Background):
+* Headline: "Simple, Transparent Booking."
+* Body Text: "Take advantage of our low introductory booking fee to secure your Sydney move today. Fast, reliable, and entirely stress-free."
+* STRICT EXCLUSIONS: Do NOT include: "No lock-in contracts", "Refundable if cancelled 48hrs prior", "Sydney only", or "What you see is what you pay".
+6. Partner Section (Light Cream Background #FAF9F6):
+* Headline: "Scale Your Moving Business."
+* Text: "Join hundreds of professional removalists growing their client base through our platform."
+* Button: "Partner with DashDone" (Golden Amber background).
+7. Footer:
+* Links: Terms of Service, Privacy Policy, Contact Us.
+* Business Info: "ABN: 17 829 062 663 | Proudly serving the Greater Sydney community."
+* Copyright: "© 2026 DashDone"
+Execution Rule: Ensure the page is fully responsive. All text in the "Introductory Booking" section must strictly follow the provided body text and avoid the excluded phrases.
